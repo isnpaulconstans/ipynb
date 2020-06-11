@@ -2,8 +2,3 @@ dependencies:
   - python
   - numpy
   - matplotlib
-  - pandas
-  - bokeh
-  - rise
-  - pillow
-  - imageio
